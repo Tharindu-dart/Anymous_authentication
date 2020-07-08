@@ -15,3 +15,5 @@ Features:-
 
 # See my second project , In there i add network connectivity + anymous authentication
 Because this will give continous loading screen if there were no internet connection.
+
+[Resoucre](https://codewithandrea.com/articles/2019-06-03-simple-authentication-flow-with-flutter/)
