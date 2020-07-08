@@ -16,4 +16,7 @@ Features:-
 # See my second project , In there i add network connectivity + anymous authentication
 Because this will give continous loading screen if there were no internet connection.
 
-[Resoucre](https://codewithandrea.com/articles/2019-06-03-simple-authentication-flow-with-flutter/)
+
+# Resource
+[1](https://codewithandrea.com/articles/2019-06-03-simple-authentication-flow-with-flutter/)
+[2](https://stackoverflow.com/questions/45353730/firebase-login-with-flutter-using-onauthstatechanged)
